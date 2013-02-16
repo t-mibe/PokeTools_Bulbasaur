@@ -2,10 +2,15 @@
 <resources>
 
     <string name="app_name">PokeTools</string>
-    <string name="title_section3">Section 3</string>
-    <string name="title_section2">Section 2</string>
-    <string name="title_section1">Section 1</string>
-    <string name="hello_world">Hello world!</string>
-    <string name="menu_settings">Settings</string>
+    
+    <string name="menu_account">アカウント設定</string>
+    <string name="menu_homeDir">ホームディレクトリ設定</string>
+    <string name="menu_help">ヘルプ</string>
+    
+    <string name="tab_name_battle">対戦</string>
+    <string name="tab_name_user">個人</string>
+    <string name="tab_name_environment">環境</string>
+    <string name="tab_name_common">一般</string>
+    <string name="tab_name_settings">設定</string>
 
 </resources>
